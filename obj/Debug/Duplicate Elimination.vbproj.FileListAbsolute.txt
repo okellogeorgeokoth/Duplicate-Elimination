@@ -1,0 +1,12 @@
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\bin\Debug\Duplicate Elimination.exe.config
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\bin\Debug\Duplicate Elimination.exe
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\bin\Debug\Duplicate Elimination.pdb
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\bin\Debug\Duplicate Elimination.xml
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\obj\Debug\Duplicate Elimination.vbprojAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\obj\Debug\Duplicate_Elimination.Form1.resources
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\obj\Debug\Duplicate_Elimination.Resources.resources
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\obj\Debug\Duplicate Elimination.vbproj.GenerateResource.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\obj\Debug\Duplicate Elimination.vbproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\obj\Debug\Duplicate Elimination.exe
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\obj\Debug\Duplicate Elimination.xml
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Duplicate Elimination\obj\Debug\Duplicate Elimination.pdb
